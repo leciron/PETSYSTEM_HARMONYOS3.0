@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "宠物交互系统"
+    },
+    {
+      "name": "createCharacter_desc",
+      "value": "description"
+    },
+    {
+      "name": "createCharacter_label",
+      "value": "label"
+    },
+    {
+      "name": "PageAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PageAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "DataAbility_desc",
+      "value": "hap sample empty provider"
+    },
+    {
+      "name": "alarm",
+      "value": "警告提示"
+    },
+    {
+      "name": "yes",
+      "value": "确定"
+    },
+    {
+      "name": "openGarbageBag",
+      "value": "waste_bag_open.png"
+    },
+    {
+      "name": "closeGarbageBag",
+      "value": "waste_bag_close.png"
+    }
+  ]
+}
