@@ -13,14 +13,24 @@ The Parent-Child Pet Interaction System is a multi-scenario interaction system d
 <img width="798" alt="image" src="https://github.com/user-attachments/assets/642b41ce-4697-4670-9346-198a14327efc">
 
 2. Purchase and road safty
-On your way to the food shop, get the guidance on the right and safe time to cross the road.
+- On your way to the food shop, get the guidance on the right and safe time to cross the road.
+
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/f1033e53-7eb2-4390-9a75-6d878c4a6449">
 
 3. Garbage classification
-Help classify garbage generated during pet care into different types, contributing to a green and convenient community.
+- Help classify garbage generated during pet care into different types, contributing to a green and convenient community.
+
+<img width="348" alt="image" src="https://github.com/user-attachments/assets/a9477750-cb9f-44ee-98ef-ae1874271b65">
 
 ### Two interaction modes for parent participation
 - Select item list displyed in the store
 While parent select items on the phone, the result will be synchronized on the tablet!
 
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/80e99fa4-1161-4293-aef7-dc733705ee70">
+
 - Competition on garbage classification
 Let's throw questions to see the winner for the game!
+
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/212120d2-2401-4340-baa1-bce9b83fa60f">
+
+
