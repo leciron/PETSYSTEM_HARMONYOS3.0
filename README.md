@@ -2,6 +2,7 @@
 
 ## Introduction
 The Parent-Child Pet Interaction System is a multi-scenario interaction system developed in TypeScript using HarmonyOS 3.0. It leverages distributed features for seamless device synchronization, providing an immersive and interactive experience for parents and children.
+> Display video: https://www.bilibili.com/video/BV1Rv4y1E72w
 
 ### Three live sceneries
 #### 1. Feed the pet
